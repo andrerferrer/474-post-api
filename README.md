@@ -4,8 +4,8 @@ First clone this repository to your laptop. You must have Node (> v4) and [yarn]
 
 ```bash
 cd ~/code/$USER
-git clone git@github.com:andrerferrer/426-post-api.git
-cd 426-post-api
+git clone git@github.com:andrerferrer/474-post-api.git
+cd 474-post-api
 yarn install
 stt # Open this folder in Sublime Text
 ```
